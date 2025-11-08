@@ -1,1 +1,1 @@
-<h2>dota2-senate Notes</h2><hr>[ Time taken: 20 m 59 s ]
+<h2>dota2-senate Notes</h2><hr>[ Time taken: 7 m 47 s ]
